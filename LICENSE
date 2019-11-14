@@ -1,7 +1,9 @@
 MIT License
 
-Copyright (c) 2018 Microsoft
-Copyright (c) 2019 Emdalo Technologies
+Mask R-CNN implementation: Copyright (c) 2017 Matterport, Inc.
+Portions of the labs: Copyright (c) 2018 Microsoft
+Portions of the labs: Copyright (c) 2019 Emdalo Technologies
+Keras CIFAR10-ResNet implementation: Copyright (c) 2018 Rowel Atienza and François Chollet
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
